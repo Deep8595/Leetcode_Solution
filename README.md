@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3463-alternating-groups-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3483-alternating-groups-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3463-alternating-groups-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
