@@ -5,7 +5,9 @@ class Solution {
 
         for(int i = 0 ; i < n ; i++){
             temp[(i+k)%n] = nums[i];
+            nums[i] = temp[i];
         }
+
         // traversal the array using for loop.
         for(int i = 0 ; i < temp.length ;i++){
             nums[i] = temp[i];
