@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
 | [1138-grumpy-bookstore-owner](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
