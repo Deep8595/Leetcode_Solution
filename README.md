@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
 | [1028-interval-list-intersections](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1028-interval-list-intersections) |
 | [1138-grumpy-bookstore-owner](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1138-grumpy-bookstore-owner) |
+| [1242-matrix-block-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
+| [1242-matrix-block-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1028-interval-list-intersections) |
+## Matrix
+|  |
+| ------- |
+| [1242-matrix-block-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1242-matrix-block-sum) |
 <!---LeetCode Topics End-->
