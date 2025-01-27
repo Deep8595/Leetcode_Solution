@@ -17,9 +17,9 @@ class Solution {
         }
         for(int i = 0 ; i < array.length ; i++){
             if( array[i] > 1){
-                array[i] -= extra;
-                array[i+1] += array[i];
-                answer += array[i];
+                array[i] = array[i] - extra;
+                array[i+1] = array[i+1] + array[i];
+                answer = answer + array[i];
             }
         }
         return answer;
