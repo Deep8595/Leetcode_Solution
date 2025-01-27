@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0056-merge-intervals) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
 ## Counting
