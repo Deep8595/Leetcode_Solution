@@ -1,6 +1,5 @@
 class Solution {
     public int minIncrementForUnique(int[] nums) {
-        Arrays.sort(nums);
         int extra = 1;
         int answer = 0;
         int max = nums[0];
