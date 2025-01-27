@@ -15,12 +15,11 @@ class Solution {
         for(int i = 0 ; i < nums.length; i++){
             array[nums[i]]++;
         }
-        
-        for(int k = 0 ; k < array.length ; k++){
-            if( array[k] > 1){
-                array[k] -= extra;
-                array[k+1] += array[k];
-                answer += array[k];
+        for(int i = 0 ; i < array.length ; i++){
+            if( array[i] > 1){
+                array[i] -= extra;
+                array[i+1] += array[i];
+                answer += array[i];
             }
         }
         return answer;
