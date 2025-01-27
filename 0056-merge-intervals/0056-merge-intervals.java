@@ -11,7 +11,7 @@ class Solution {
                 int[] ans = { intervals[i][0], end };
                 answer.add(ans);
                 i = j;
-              end=Math.max(intervals[j][1] , end);
+                end = Math.max(intervals[j][1], end);
             }
             j++;
         }
