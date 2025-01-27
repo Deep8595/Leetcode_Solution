@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
 | [1028-interval-list-intersections](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1028-interval-list-intersections) |
 | [1138-grumpy-bookstore-owner](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1138-grumpy-bookstore-owner) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0011-container-with-most-water) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
 ## Dynamic Programming
 |  |
@@ -111,5 +113,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
+## Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
