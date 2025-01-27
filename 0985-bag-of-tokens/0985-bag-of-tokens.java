@@ -10,14 +10,14 @@ class Solution {
         while (start <= end) {
            
            if (tokens[start] <= power) {
-                power = power - tokens[start];
+                power -= tokens[start];
              
                 score++;
                 start++;
              maxScore = Math.max(score , maxScore);
             }
             else if( score > 0){
-                power = power + tokens[end];
+                power += tokens[end];
                 score--;
                 end--;
             }
