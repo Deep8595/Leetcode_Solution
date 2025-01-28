@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 | [3463-alternating-groups-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3463-alternating-groups-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0011-container-with-most-water) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0056-merge-intervals) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Counting
 |  |
 | ------- |
