@@ -18,9 +18,10 @@ class Solution {
 
         Arrays.sort(arr);
         Arrays.sort(nums);
-    
+
+        long  mod = 1000000007;
         for (int k = 0; k < arr.length; k++) {
-            ans = (ans + ((long) nums[k] * (long)arr[k]) % 1000000007 ) % 1000000007;
+            ans = (ans + ((long) nums[k] * (long)arr[k])%mod)%mod;
 
         }
         return (int)ans;
