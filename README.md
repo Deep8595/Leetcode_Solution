@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
+| [0907-koko-eating-bananas](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0907-koko-eating-bananas) |
 | [0946-smallest-range-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0946-smallest-range-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0907-koko-eating-bananas) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 ## Design
