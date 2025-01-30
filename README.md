@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1833-find-the-highest-altitude](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1833-find-the-highest-altitude) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3463-alternating-groups-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3463-alternating-groups-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1833-find-the-highest-altitude](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1833-find-the-highest-altitude) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 ## String
 |  |
