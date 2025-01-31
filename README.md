@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0014-longest-common-prefix) |
 | [0165-compare-version-numbers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0165-compare-version-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0274-h-index) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
