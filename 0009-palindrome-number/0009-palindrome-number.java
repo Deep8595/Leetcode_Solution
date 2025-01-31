@@ -4,8 +4,7 @@ class Solution {
             return false;
         }
 
-        long rev = 0;
-        long var = x;
+        int  rev = 0 , var = x;
 
         while( var != 0){
             int dig = (int) (var % 10);
