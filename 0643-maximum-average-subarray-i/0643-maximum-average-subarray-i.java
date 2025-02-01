@@ -6,7 +6,8 @@ class Solution {
         maxAvg = sum / k;
         while( i < nums.length){
             sum += nums[i] - nums[i-k];
-            maxAvg = Math.max(maxAvg , sum/k);
+            // maxAvg = Math.max(maxAvg , sum/k);
+            if(sum/k > maxAvg) maxAvg = sum /k;
             i++;
         }
         return maxAvg;
