@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0165-compare-version-numbers) |
+| [0392-is-subsequence](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0392-is-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 ## Binary Search
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0392-is-subsequence) |
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
 | [1028-interval-list-intersections](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1028-interval-list-intersections) |
 ## Greedy
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
