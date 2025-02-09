@@ -12,7 +12,6 @@ class Solution {
                 ans.append(c);
             }
         }
-
         
         char[] charArray = ans.toString().toCharArray();
 
