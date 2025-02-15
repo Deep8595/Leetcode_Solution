@@ -12,7 +12,8 @@ class Solution {
         for(int i = 0 ; i < nums.length; i=i+2){
             rep = nums[i];
             while(rep > 0){
-                newArr[len++] = nums[i+1];
+                newArr[len] = nums[i+1];
+                len++;
                 rep--;
             }
         }
