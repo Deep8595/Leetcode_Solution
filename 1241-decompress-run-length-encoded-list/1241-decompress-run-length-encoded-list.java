@@ -1,16 +1,15 @@
 class Solution {
     public int[] decompressRLElist(int[] nums) {
-        int rep = 0 , len = 0 , j = 0;
-        for(int i = 0; i < nums.length; i = i+2){
+        int len = 0 , j = 0 , rep = 0 , start = 0;
+        for(int i = 0 ; i < nums.length ; i=i+2){
             len += nums[i];
         }
-        int[] newArr = new int[len];
-        len = 0;
-        while( j < nums.length){
+        int [] newArr = new int[len];
+        while(j < nums.length){
             rep = nums[j];
-            while(rep > 0){
-                newArr[len] = nums[j+1];
-                len++;
+            while( rep > 0){
+                newArr[start] = nums[j+1];
+                start++;
                 rep--;
             }
             j = j+2;
