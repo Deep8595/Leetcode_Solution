@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
 | [1028-interval-list-intersections](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1028-interval-list-intersections) |
 | [1138-grumpy-bookstore-owner](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1138-grumpy-bookstore-owner) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1241-decompress-run-length-encoded-list) |
 | [1242-matrix-block-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1505-create-target-array-in-the-given-order) |
