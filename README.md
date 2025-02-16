@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2727-number-of-senior-citizens) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3463-alternating-groups-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3483-alternating-groups-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search
 |  |
 | ------- |
