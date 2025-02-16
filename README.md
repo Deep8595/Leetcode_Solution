@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1603-running-sum-of-1d-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1603-running-sum-of-1d-array) |
+| [1651-shuffle-string](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1651-shuffle-string) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0392-is-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1651-shuffle-string](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2589-maximum-value-of-a-string-in-an-array) |
