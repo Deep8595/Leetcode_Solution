@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1833-find-the-highest-altitude) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0392-is-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Binary Search
