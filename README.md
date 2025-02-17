@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1833-find-the-highest-altitude) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Dynamic Programming
 |  |
 | ------- |
