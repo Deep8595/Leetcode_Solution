@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1603-running-sum-of-1d-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1651-shuffle-string) |
+| [1677-matrix-diagonal-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1677-matrix-diagonal-sum) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1242-matrix-block-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1242-matrix-block-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1791-richest-customer-wealth) |
 ## Sorting
 |  |
