@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2727-number-of-senior-citizens) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3324-split-the-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3324-split-the-array) |
 | [3463-alternating-groups-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3483-alternating-groups-ii) |
 ## Sliding Window
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3324-split-the-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3324-split-the-array) |
 ## Math
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0169-majority-element) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [3324-split-the-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3324-split-the-array) |
 ## Counting Sort
 |  |
 | ------- |
