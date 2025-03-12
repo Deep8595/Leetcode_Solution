@@ -1,16 +1,19 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        if( nums.length == 0) {
-            return 0;
-        }
-        int k = 1 ;
+        HashMap<Integer , Boolean> has = new HashMap<>();
+        List<Integer> lis = new ArrayList<>();
 
-        for(int i = 1 ;i < nums.length ;i++){
-            if( nums[i] != nums[i-1]){
-                nums[k] = nums[i];
-                k++;
+        for( int i : nums){
+            if(!has.containsKey(i)){
+                has.put(i , true);
+                lis.add(i);
             }
         }
-        return k;
+        for(int i = 0 ; i < lis.size() ; i++){
+            nums[i] = lis.get(i);
+        }
+
+        return lis.size();
+
     }
 }
