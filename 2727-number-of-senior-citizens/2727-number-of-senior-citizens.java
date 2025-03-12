@@ -1,14 +1,13 @@
 class Solution {
     public int countSeniors(String[] details) {
-        int i = 0, sum = 0;
-        while( i < details.length){
-            String detail = details[i];
-            int age = Integer.parseInt(detail.substring(11,13));
-            if( age > 60){
-                sum++;
+        int count = 0;
+        for( int i = 0 ; i < details.length; i++){
+            String str = details[i];
+            int age = Integer.parseInt(str.substring(11,13));
+            if(age > 60){
+                count++;
             }
-            i++;
         }
-        return sum;
+        return count;
     }
 }
