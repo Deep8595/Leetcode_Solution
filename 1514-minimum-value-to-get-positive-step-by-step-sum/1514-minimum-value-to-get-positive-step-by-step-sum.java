@@ -1,12 +1,10 @@
 class Solution {
     public int minStartValue(int[] nums) {
-        int pref = 0;
-        int sum = 0 ;
-
-        for(int arr : nums){
-            sum += arr;
-            pref = Math.min(sum,pref);
+        int sum = 0 , totalSum = 0;
+        for( int i = 0 ; i < nums.length ; i++ ){
+            sum += nums[i];
+            totalSum = Math.min( sum , totalSum);
         }
-        return 1 - pref;
+        return 1 - totalSum;
     }
 }
