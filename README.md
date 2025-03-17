@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0907-koko-eating-bananas) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0724-find-pivot-index) |
 | [1242-matrix-block-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
