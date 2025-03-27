@@ -1,37 +1,40 @@
 class Solution {
+    List<List<String>> ans = new ArrayList<>();
+    int n;
     public List<List<String>> partition(String s) {
-        List<List<String>> ans = new ArrayList<>();
-        partitionHelper(s, 0 , new ArrayList<>() , ans);
+        n = s.length();
+        recur(s , 0 , new ArrayList<>());
         return ans;
     }
 
-    private void partitionHelper(String s , int start , List<String> current , List<List<String>> ans ){
-        if(start == s.length()){
-            ans.add(new ArrayList<>(current));
-            return ;
-        }
-        for( int i = start ; i < s.length() ; i++){
-            String pre = s.substring(start , i+1);
-            if(ispalindrome(pre)){
-                current.add(pre);
-                partitionHelper(s , i+1 , current , ans);
-                current.remove(current.size() -1);
-            }
-        }
-    }
-
-    private boolean ispalindrome(String str ){
-        int left = 0 , right = str.length() -1;
-        while( left < right ){
-            char li = str.charAt(left);
-            char ri = str.charAt(right);
-            if( li != ri ){
+    public boolean isPalindrome(String s, int start , int end ){
+        while( start < end){ // single character is always palindrome
+            if(s.charAt(start) != s.charAt(end)){
                 return false;
             }
-            left++;
-            right--;
+            start++;
+            end--;
         }
         return true;
+    }
+
+    public void recur( String s , int partIndex , List<String> sublist){
+        if( partIndex == n){
+            ans.add(new ArrayList<>(sublist));
+            return ;
+        }
+        // explore the poss
+        for( int end = partIndex ; end < n ; end++){
+            if(isPalindrome(s, partIndex , end)){
+                // add in list
+                sublist.add(s.substring(partIndex , end + 1));
+                // explore
+                recur(s, end +1 , sublist);
+                // backtract
+                sublist.remove(sublist.size() -1);
+
+            }
+        }
     }
 
 }
