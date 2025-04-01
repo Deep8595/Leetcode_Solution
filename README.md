@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0165-compare-version-numbers) |
+| [0290-word-pattern](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0392-is-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1651-shuffle-string) |
