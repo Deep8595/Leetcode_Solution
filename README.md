@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0189-rotate-array) |
 | [0946-smallest-range-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0946-smallest-range-ii) |
@@ -313,5 +314,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
