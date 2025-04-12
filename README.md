@@ -323,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0078-subsets) |
+## Database
+|  |
+| ------- |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1892-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
