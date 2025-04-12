@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0169-majority-element) |
