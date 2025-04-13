@@ -8,7 +8,7 @@ class Solution {
                 max = piles[i];
             }
         }
-
+        
         while( min < max){
             int mid = min + (max - min)/2;
             int sum = 0;
