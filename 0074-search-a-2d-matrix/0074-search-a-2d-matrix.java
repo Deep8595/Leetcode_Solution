@@ -1,26 +1,19 @@
 class Solution {
-    private boolean canFind(int [][] matrix , int target){
-        int row = matrix.length;
-        int col = matrix[0].length;
-        int min = 0;
-        int max = row * col -1;
-        while (min <= max){
-            int mid = min + (max - min)/ 2;
-            int midValue = matrix[mid/col][mid % col];
-            if(target > midValue){
-                min = mid + 1;
+    public boolean searchMatrix(int[][] matrix, int target) {
+        int n = matrix.length , m = matrix[0].length;
+        int [] arr = new int [n*m] ;
+        int count = 0;
+
+        for( int i = 0 ; i < n ; i++ ){
+            for( int j = 0 ; j < m ; j++){
+                arr[count++] = matrix[i][j];
             }
-            else if(target < midValue){
-                max = mid -1;
-            }
-            else {
+        }
+        for( int k = 0 ; k < arr.length ; k++ ){
+            if( target == arr[k]){
                 return true;
             }
         }
         return false;
-    }
-    public boolean searchMatrix(int[][] matrix, int target) {
-        boolean result = canFind(matrix , target);
-        return result;
     }
 }
