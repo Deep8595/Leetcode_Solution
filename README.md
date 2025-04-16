@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0231-power-of-two) |
 | [0946-smallest-range-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0946-smallest-range-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0231-power-of-two) |
 ## Database
 |  |
 | ------- |
