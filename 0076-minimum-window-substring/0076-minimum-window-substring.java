@@ -1,60 +1,53 @@
 class Solution {
     public String minWindow(String s, String t) {
+        if (s == null || t == null || s.length() < t.length()) return "";
 
-        String ans = "";
+        int[] targetFreq = new int[128];
+        int[] windowFreq = new int[128];
 
-        HashMap<Character, Integer> tmap = new HashMap<>();
-
-        for (int i = 0; i < t.length(); i++) {
-            char ch = t.charAt(i);
-            tmap.put(ch, tmap.getOrDefault(ch, 0) + 1);
+        // Fill frequency of characters in t
+        for (char c : t.toCharArray()) {
+            targetFreq[c]++;
         }
 
-        int match = 0;
-        int desirematch = t.length();
-
-        HashMap<Character, Integer> smap = new HashMap<>();
-
-        int i = -1;
-        int j = -1;
-
-        while (true) {
-            // acquire
-            boolean f1 = false;
-            boolean f2 = false;
-            while (i < s.length() - 1 && match < desirematch) {
-                i++;
-                char ch = s.charAt(i);
-                smap.put(ch, smap.getOrDefault(ch, 0) + 1);
-
-                if (smap.getOrDefault(ch, 0) <= tmap.getOrDefault(ch, 0)) {
-                    match++;
-                }
-                f1 = true;
-            }
-
-            // release and collect the answer;
-            while (j < i && match == desirematch) {
-                String pans = s.substring(j + 1, i + 1);
-                if (ans.length() == 0 || pans.length() < ans.length()) {
-                    ans = pans;
-                }
-                j++;
-                char ch = s.charAt(j);
-                if (smap.get(ch) == 1) {
-                    smap.remove(ch);
-                } else {
-                    smap.put(ch, smap.get(ch) - 1);
-                }
-                if (smap.getOrDefault(ch, 0) < tmap.getOrDefault(ch, 0)) {
-                    match--;
-                }
-                f2 = true;
-            }
-            if (f1 == false && f2 == false) {
-                break;
-            }
+        int required = 0;
+        for (int freq : targetFreq) {
+            if (freq > 0) required++;
         }
-        return ans;
+
+        int formed = 0;
+        int left = 0, right = 0;
+        int minLength = Integer.MAX_VALUE;
+        int minLeft = 0;
+
+        while (right < s.length()) {
+            char c = s.charAt(right);
+            windowFreq[c]++;
+
+            // Check if current character completes one required char
+            if (targetFreq[c] > 0 && windowFreq[c] == targetFreq[c]) {
+                formed++;
+            }
+
+            // Try to shrink the window from the left
+            while (left <= right && formed == required) {
+                if (right - left + 1 < minLength) {
+                    minLength = right - left + 1;
+                    minLeft = left;
+                }
+
+                char lc = s.charAt(left);
+                windowFreq[lc]--;
+
+                if (targetFreq[lc] > 0 && windowFreq[lc] < targetFreq[lc]) {
+                    formed--;
+                }
+                left++;
+            }
+
+            right++;
+        }
+
+        return minLength == Integer.MAX_VALUE ? "" : s.substring(minLeft, minLeft + minLength);
     }
 }
