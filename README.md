@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0338-counting-bits) |
 ## Database
 |  |
 | ------- |
