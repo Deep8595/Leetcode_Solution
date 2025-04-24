@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0948-sort-an-array) |
 ## String Matching
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0231-power-of-two) |
 ## Database
 |  |
