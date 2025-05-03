@@ -1,24 +1,22 @@
 class Solution {
-    public int search(int[] A, int tar) {
-        int min = 0 , max = A.length-1;
+    public int search(int[] nums, int target) {
+        int min = 0 , max = nums.length - 1;
 
         while( min <= max ){
-            int mid = min + ( max - min)/2;
-            if( A[mid] == tar){
+            int mid = min + (max-min)/2;
+            if( nums[mid] == target ){
                 return mid;
             }
-
-            if( A[min] <= A[mid]){
-                // left sorted
-                if( A[min] <= tar && tar <= A[mid]){
-                    max = mid -1;
-                }else{
-                    min = mid + 1;
+            if( nums[min] <= nums[mid]){
+                if( nums[min] <= target && nums[mid] >= target){
+                    max = mid-1;
+                }
+                else{
+                    min = mid+1;
                 }
             }
-            else {
-                // right sorted
-                if( A[mid] <= tar && tar <= A[max]){
+            else{
+                if( nums[mid] <= target && nums[max] >= target){
                     min = mid +1;
                 }
                 else{
