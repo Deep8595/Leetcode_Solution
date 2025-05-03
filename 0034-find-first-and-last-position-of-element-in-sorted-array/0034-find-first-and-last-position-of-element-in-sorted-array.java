@@ -1,25 +1,33 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int empty[] = {-1,-1};
-        if( nums.length == 0 ) return empty;
-
-        int start = -1 , end = -1 ;
-        for( int i = 0 ;i < nums.length ; i++){
-            if( nums[i] == target ){
-                start = i;
+        int min = 0 , max = nums.length -1;
+        int[] result = {-1,-1};
+        while( min <= max ){
+            int mid = min + ( max - min ) / 2;
+            if( nums[mid] == target ){
+                result = check( mid , nums , target);
                 break;
             }
-        }
-
-        if( start == -1 ) return empty;
-
-        for( int i = start + 1 ; i < nums.length ; i++){
-            if( nums[i] == target ) {
-                end = i;
+            else if( nums[mid] > target ){
+                max = mid - 1;
+            }
+            else {
+                min = mid + 1;
             }
         }
-        if( end == -1 ) return new int[] {start, start};
-
-        return new int[]{start , end};
+        return result;
+    }
+    private int[] check( int mid , int[] nums , int target ){
+        int left = mid , right = mid;
+        int [] result = {left , right};
+        while( left >= 0 && nums[left] == target ){
+            result[0] = left;
+            left--;
+        }
+        while( right <= nums.length-1 && nums[right] == target ){
+            result[1] = right;
+            right++;
+        }
+        return result;
     }
 }
