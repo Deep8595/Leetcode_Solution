@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0729-my-calendar-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0605-can-place-flowers) |
 | [0853-most-profit-assigning-work](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0853-most-profit-assigning-work) |
 | [0946-smallest-range-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0946-smallest-range-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
