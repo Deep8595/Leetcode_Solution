@@ -1,9 +1,9 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        int reach = 0;
-        for(int i = 0 ; i < nums.length ; i++){
-            if( i > reach ) return false;
-            reach = Math.max( reach , i+nums[i]);
+        int ans = 0;
+        for( int i = 0 ; i < nums.length ; i++ ){
+            if( i > ans ) return false;
+            ans = Math.max( ans , i + nums[i]);
         }
         return true;
     }
