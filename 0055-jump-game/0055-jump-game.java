@@ -1,11 +1,19 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        int ans = 0 , i = 0;
-        while( i < nums.length ){
-            if( i > ans ) return false;
-            ans = Math.max( ans , i + nums[i]);
-            i++;
+        int n = nums.length;
+        boolean[] dp = new boolean[n];
+        dp[0] = true; // We can always reach the first index
+
+        for (int i = 1; i < n; i++) {
+            dp[i] = false;
+            for (int j = 0; j < i; j++) {
+                if (dp[j] && j + nums[j] >= i) {
+                    dp[i] = true;
+                    break;
+                }
+            }
         }
-        return true;
+
+        return dp[n - 1];
     }
 }
