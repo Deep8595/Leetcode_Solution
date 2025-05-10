@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0074-search-a-2d-matrix) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0455-assign-cookies) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0121-best-time-to-buy-and-sell-stock) |
