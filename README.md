@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0671-second-minimum-node-in-a-binary-tree) |
