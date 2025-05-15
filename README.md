@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0577-employee-bonus) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Segment Tree
