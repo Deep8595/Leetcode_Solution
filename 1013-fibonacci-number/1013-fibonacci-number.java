@@ -1,15 +1,6 @@
 class Solution {
     public int fib(int n) {
-        int [] arr = new int[n+1];
-        for( int i = 0 ; i <= n ; i++ ){
-            arr[i] = -1;
-        }
-        return memo( n , arr );
-    }
-    private int memo( int n , int [] arr){
         if( n <= 1 ) return n;
-        if( arr[n] != -1 )return arr[n];
-        arr[n] = memo(n-1 , arr) + memo(n-2 , arr);
-        return arr[n];
+        return fib(n-1) + fib(n-2);
     }
 }
