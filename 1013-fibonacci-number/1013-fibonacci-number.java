@@ -9,7 +9,7 @@ class Solution {
     private int check( int n , int[] arr){
         if( n <= 1 ) return n;
         if( arr[n] != -1 ) return arr[n];
-        arr[n] = fib(n-1) + fib(n-2);
+        arr[n] = check(n-1, arr) + check(n-2,arr);
         return arr[n];
     }
 }
