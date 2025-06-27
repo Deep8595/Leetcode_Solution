@@ -15,10 +15,11 @@ class Solution {
         for(Map.Entry<Integer , Integer> entry : map.entrySet()){
             array[index++] = entry.getValue();
         }
-        // array[i] = { 2, 4, 3, 1}
+        // array[i] = { 2, 4, 3, 1 }
         Arrays.sort(array);
+        // array[i] = { 1, 2, 3, 4 }
         int tar = arr.length / 2;
-        int sum = 0;
+        int sum = 0; 
         for(int i = array.length -1 ; i >= 0 ; i-- ){
             sum += array[i];
             step++;
