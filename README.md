@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0307-range-sum-query-mutable) |
 | [0435-non-overlapping-intervals](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0540-single-element-in-a-sorted-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0729-my-calendar-i) |
 ## Two Pointers
 |  |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0729-my-calendar-i) |
 ## Ordered Set
 |  |
@@ -451,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3201-distribute-candies-among-children-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
