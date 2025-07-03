@@ -1,23 +1,38 @@
+class Job {
+    int difficulty;
+    int profit;
+
+    Job(int difficulty, int profit) {
+        this.difficulty = difficulty;
+        this.profit = profit;
+    }
+}
+
 class Solution {
     public int maxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {
-        int n =  difficulty.length;
-        int [][] job = new int[n][2];
-
-        for(int i = 0 ; i < n ; i++){
-            job[i][0] = difficulty[i];
-            job[i][1] = profit[i];
-        }
         Arrays.sort(worker);
-        Arrays.sort(job , (a,b) -> a[0] - b[0]);
-
-        int max_pro = 0 , result = 0 , i =0;
-        for(int w : worker){
-            while( i < n && w >= job[i][0]){
-                max_pro = Math.max(max_pro , job[i][1]);
+        int n = difficulty.length;
+        Job jobs[] = new Job[n];
+        for (int i = 0; i < n; i++) {
+            jobs[i] = new Job(difficulty[i], profit[i]);
+        }
+        Arrays.sort(jobs, new Comparator<Job>() {
+            public int compare(Job j1, Job j2) {
+                return j1.difficulty - j2.difficulty;
+            }
+        });
+        int i = 0;
+        int maxProfit = 0;
+        PriorityQueue<Integer> maxPQ = new PriorityQueue<>(Collections.reverseOrder());
+        for (int j = 0; j < worker.length; j++) {
+            while (i < n && jobs[i].difficulty <= worker[j]) {
+                maxPQ.offer(jobs[i].profit);
                 i++;
             }
-            result += max_pro;
+            if (!maxPQ.isEmpty()) {
+                maxProfit += maxPQ.peek();
+            }
         }
-        return result;
+        return maxProfit;
     }
 }
