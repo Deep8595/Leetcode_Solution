@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0231-power-of-two) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
