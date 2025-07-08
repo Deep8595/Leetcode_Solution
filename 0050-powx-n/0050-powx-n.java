@@ -1,5 +1,6 @@
 class Solution {
     public double myPow(double x, int n) {
+        if( n == 0 ) return 1;
         long pos = n;
         if( pos < 0 ){
             pos = - pos;
@@ -11,7 +12,7 @@ class Solution {
                 ans *= x;
             }
             x = x * x;
-            pos = pos / 2;
+            pos /= 2;
         }
         return ans;
     }
