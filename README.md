@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0853-most-profit-assigning-work) |
+| [0917-boats-to-save-people](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
 | [1028-interval-list-intersections](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1028-interval-list-intersections) |
 ## Greedy
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0605-can-place-flowers) |
 | [0853-most-profit-assigning-work](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0946-smallest-range-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0985-bag-of-tokens) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0853-most-profit-assigning-work) |
+| [0917-boats-to-save-people](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0982-minimum-increment-to-make-array-unique) |
