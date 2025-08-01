@@ -1,15 +1,18 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
-        int left = 1 , right = (int)1e6;
-        int ans = -1;
+        int left = 1 , ans = -1 , right = 0;
+        for(int n : nums){
+            right = Math.max(n , right);
+        }
+
         while( left <= right ){
-            int mid = ( right - left ) / 2 + left;
+            int mid = left + (right - left) / 2;
             int sum = 0;
-            for( int num : nums ){
-                sum += (num + mid - 1) / mid ;
+            for(int num : nums){
+                sum += (num + mid -1) / mid;
             }
-            if( sum <= threshold){
-                ans = mid ;
+            if(sum <= threshold){
+                ans = mid;
                 right = mid -1;
             }
             else{
