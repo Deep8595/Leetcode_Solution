@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0307-range-sum-query-mutable) |
 | [0435-non-overlapping-intervals](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0605-can-place-flowers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -277,10 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0496-next-greater-element-i) |
 ## Line Sweep
 |  |
 | ------- |
