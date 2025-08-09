@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0595-big-countries) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Segment Tree
 |  |
