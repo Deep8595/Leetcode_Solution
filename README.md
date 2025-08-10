@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1580-shuffle-the-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1651-shuffle-string) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1675-magnetic-force-between-two-balls) |
