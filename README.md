@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1833-find-the-highest-altitude) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2048-build-array-from-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2048-build-array-from-permutation) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0415-add-strings) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1505-create-target-array-in-the-given-order) |
+| [2048-build-array-from-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2048-build-array-from-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
