@@ -3,7 +3,9 @@ class Solution {
         int maxi = 0;
         List<Boolean> ans = new ArrayList<>();
         for (int cand : candies) {
-            maxi = Math.max(maxi, cand);
+            if(maxi < cand){
+                maxi = cand;
+            }
         }
         for(int i = 0 ; i < candies.length; i++){
             int sum = extraCandies + candies[i];
