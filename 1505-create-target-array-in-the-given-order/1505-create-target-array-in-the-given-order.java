@@ -1,19 +1,13 @@
 class Solution {
     public int[] createTargetArray(int[] nums, int[] index) {
-        ArrayList<Integer> list = new ArrayList<>();
-
-        for(int i = 0 ; i < nums.length ; i++){
-            int num = nums[i];
-            int ind = index[i];
-            list.add(ind , num);
+        List<Integer> ls = new ArrayList<>();
+        int[] arr = new int[nums.length];
+        for(int i = 0 ; i < index.length; i++){
+            ls.add(index[i],nums[i]);
         }
-
-        int arr[] = new int[list.size()];
-        for(int i = 0 ; i < list.size(); i++){
-            arr[i] = list.get(i);
+        for(int i = 0 ; i < arr.length ; i++){
+            arr[i] = ls.get(i);
         }
-
         return arr;
-
     }
 }
