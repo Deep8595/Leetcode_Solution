@@ -1,16 +1,14 @@
 class Solution {
     public int minOperations(int[] nums) {
-        int i = 0 , count = 0;
-        while( i < nums.length-1){
-            int inc = 0;
-            if(nums[i] >= nums[i+1]){
-                int number = nums[i+1];
-                nums[i+1] = nums[i]+1;
-                inc = nums[i+1] -  number;
-                count += inc;
+        int ans = 0 , i = 0;
+        while( i < nums.length-1 ){
+            int check = nums[i];
+            while( check >= nums[i+1]){
+                nums[i+1] = nums[i+1] + 1;
+                ans++;
             }
             i++;
         }
-        return count;
+        return ans;
     }
 }
