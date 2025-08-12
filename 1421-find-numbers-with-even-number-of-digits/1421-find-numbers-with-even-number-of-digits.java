@@ -1,19 +1,18 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int i = 0 , res = 0 ;
-
-        while( i < nums.length){
-            int num = nums[i];
+        int ans = 0 , i = 0;
+        while( i < nums.length ){
+            int check = nums[i];
             int count = 0;
-            while( num > 0){
-                num /= 10;
+            while( check > 0 ){
+                check /= 10;
                 count++;
             }
-            if( count % 2 == 0){
-                res++;
+            if(count % 2 == 0){
+                ans++;
             }
             i++;
         }
-        return res;
+        return ans;
     }
 }
