@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0729-my-calendar-i) |
 | [0853-most-profit-assigning-work](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0946-smallest-range-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0898-transpose-matrix) |
 | [1242-matrix-block-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1242-matrix-block-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1677-matrix-diagonal-sum) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2132-convert-1d-array-into-2d-array) |
