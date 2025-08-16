@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1791-richest-customer-wealth) |
 | [1829-maximum-units-on-a-truck](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1833-find-the-highest-altitude) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/3201-distribute-candies-among-children-ii) |
 ## Prefix Sum
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1833-find-the-highest-altitude) |
 | [2165-plates-between-candles](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/2165-plates-between-candles) |
 ## String
