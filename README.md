@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1415-students-and-examinations) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1670-patients-with-a-condition](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
