@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1625-group-sold-products-by-the-date) |
