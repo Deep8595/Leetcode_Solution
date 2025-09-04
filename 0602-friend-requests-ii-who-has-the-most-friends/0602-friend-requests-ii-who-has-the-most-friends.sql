@@ -4,6 +4,6 @@ FROM (
     UNION ALL
     SELECT accepter_id FROM RequestAccepted
 ) AS result
-GROUP BY id
+GROUP BY id 
 ORDER BY num DESC 
 LIMIT 1;
