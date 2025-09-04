@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0729-my-calendar-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0747-min-cost-climbing-stairs) |
 | [0853-most-profit-assigning-work](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0898-transpose-matrix) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
