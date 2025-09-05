@@ -1,5 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
+        // TC = O(n) , SC = O(n)
         int n = nums.length ; 
         if(n == 0) return 0;
         if(n == 1) return nums[0];
