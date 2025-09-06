@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0729-my-calendar-i) |
+| [0740-delete-and-earn](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0747-min-cost-climbing-stairs) |
 | [0853-most-profit-assigning-work](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0890-lemonade-change) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0560-subarray-sum-equals-k) |
+| [0740-delete-and-earn](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0740-delete-and-earn) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1464-reduce-array-size-to-the-half) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0435-non-overlapping-intervals) |
+| [0740-delete-and-earn](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/1013-fibonacci-number) |
 ## Stack
