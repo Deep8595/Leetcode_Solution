@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0078-subsets) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0091-decode-ways) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Deep8595/https-github.com-Deep8595-leetCode_daysWORK/tree/master/0898-transpose-matrix) |
